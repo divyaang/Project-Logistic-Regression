@@ -15,7 +15,7 @@ Dataset Used: Breast Cancer dataset which is one of the datasets available in sk
 
 Part II
 
-In this part Logistic Regression has been used to come with predictions.
+In this part Logistic Regression has been used to come with predictions for Titanic dataset.
 
 Dataset Used: Titanic dataset which is one of the datasets available in sklearn.
 
